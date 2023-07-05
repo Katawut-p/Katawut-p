@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Katawut Pantashod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋
 
-<!---
-Katawut-p/Katawut-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Katawut Pantashod (Klai), a Data Engineer 💻 currently working at MSyne innovation 🍲🥡. I have a passion for make flawless data.
+
+**Here are some links to my online presence:**
+
+* [LinkedIn](https://www.linkedin.com/in/katawut-pantashod-74150721a/)
+* [Email](mailto:katawut.p@outlook.com)
+
+**Let's connect!**
