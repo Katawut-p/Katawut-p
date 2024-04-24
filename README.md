@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Katawut Pantashod (Klai), a Data Engineer 💻 currently working at <B>MSyne innovation</B> 🍲🥡. I have a passion for make flawless data.
+I'm Katawut Pantashod (Klai), a Data Engineer 💻 currently working at <B>MFEC</B> 🍲🥡. I have a passion for make flawless data.
 
 **Here are some links to my online presence:**
 
